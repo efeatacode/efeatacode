@@ -44,8 +44,8 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/efeatacode/efeatacode/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/efeatacode/efeatacode/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/efeatacode/efeatacode/e1e2a3d32ac7946df44a42c0b5a6fca12e0cd0bf/pacman.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/efeatacode/efeatacode/e1e2a3d32ac7946df44a42c0b5a6fca12e0cd0bf/pacman.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/efeatacode/efeatacode/e1e2a3d32ac7946df44a42c0b5a6fca12e0cd0bf/pacman.svg">
 </picture>
 
