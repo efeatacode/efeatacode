@@ -46,7 +46,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/efeatacode/efeatacode/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/efeatacode/efeatacode/output/pacman-contribution-graph.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./pacman.svg">
+  <img alt="pacman contribution graph" src="./pacman.svg">
 </picture>
 
 ###
